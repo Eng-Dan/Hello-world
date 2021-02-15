@@ -1,2 +1,2 @@
 # Hello-world
-To learn the basics on GitHub
+Hello people on planet Earth!
